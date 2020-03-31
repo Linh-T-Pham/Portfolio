@@ -8,15 +8,26 @@ class Landing extends Component {
                 <Grid className="landing-grid">
                     <Cell col={12}>
                         <img
-                            src='/Me with Bo.png' width="200" height="200" alt="image"
-                            className="my-image"
-                        />
+                            src='/LinhandBo.jpg'  alt="image"
+                            className="my-image"/>
                         <div className="banner-text">
                             <h1>Full Stack Software Engineer</h1>
-                    <p>Python | Javascript | React | SQL | PostgresSQL | R | Boostrap | HTML/CSS</p>
+                        <hr/>
 
+                    <p>Python | Flask | Django | Javascript | React | SQL | PostgresSQL | Boostrap | HTML/CSS | R</p>                                  
                     
-                    <hr/> 
+                    <div className="social-links">
+                        {/* Linkdedln */}
+                        <a href="https://www.linkedin.com/in/linh-t-pham/" rel="noopener noreeferrer" target="_blank">
+                        <i className="fa fa-linkedin-square"  aria-hidden="true" />
+                        </a>
+                        {/* github */}
+                        <a href="https://github.com/thuytpham" rel="noopener noreeferrer" target="_blank">
+                        <i className= "fa fa-github"  aria-hidden="true" />
+                        </a>
+                    </div>
+                    
+                    
                     </div>
                     </Cell>
                 </Grid>               
