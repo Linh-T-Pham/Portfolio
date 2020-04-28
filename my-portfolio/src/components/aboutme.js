@@ -10,10 +10,10 @@ class About extends Component {
                 <p> Thank you for visiting my website! <br/><br/>
                     I am a software engineer with a background
                     in business/finance and I've worked in different analytical<br/>
-                    positions for 3 + years. I have been curious about techologies,  
+                    positions for 3 + years. I have been curious about technologies,  
                     data analytics and enjoy learning them a lot.<br/>
-                    I believe that techologies can help solving different problems in the world.<br/>
-                    My goal in next 5 years is to continue building
+                    I believe that technologies can help to solve many problems in the world.<br/>
+                    My goal in the next 5 years is to continue building
                     skills and knowledge as a software engineer. <br/><br/>
 
                     I like to dance salsa, zumba, meet new people and explore different food recipes. 
