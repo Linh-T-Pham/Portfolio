@@ -23,9 +23,9 @@ class App extends Component {
                 </Navigation>
             </Header>
             <Drawer className="drawer-color" title={<Link style={{textDecoration: "none", color: "orange" }} 
-                    to="/" onClick={()=> this.hide.Toggle()}>Linh Pham</Link>} scroll>
+                    to="/">Linh Pham</Link>} scroll>
                 <Navigation>
-                    <a href="Resume - Google Docs.pdf" download>Resume</a>
+                    <a href="Resume-Linh Pham.pdf" download>Resume</a>
                     <Link to="/contact">About Me</Link>
                     <a href="https://github.com/thuytpham" rel="noopener noreeferrer" target="_blank">Projects</a>          
                 </Navigation>

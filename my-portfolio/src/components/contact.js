@@ -11,9 +11,9 @@ class Contact extends Component {
                         <p> Thank you for visiting my website! <br/><br/>
                         I am a software engineer with a background
                         in business/finance and I've worked in different analytical
-                        positions for 3 + years. I have been curious about techologies and enjoy learning them.
-                        I believe that coding can help solving many problems in the world.
-                        My goal in next 5 years is to continue building
+                        positions for 3 + years. I have been curious about technologies and enjoy learning them.
+                        I believe that coding can help to solve many problems in the world.
+                        My goal in the next 5 years is to continue building
                         skills and knowledge as a software engineer. <br/><br/>
 
                         I like to dance salsa, zumba, meet new people and explore new food recipes. 
