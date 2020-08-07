@@ -17,7 +17,7 @@ class App extends Component {
             <Header className="header-color" title={<Link style={{textDecoration: "none", color: "white" }} 
                     to="/">Linh Pham</Link>} scroll>
                 <Navigation>
-                    <a href="Resume - Google Docs.pdf" download>Resume</a>
+                    <a href="Linh Pham Resume 08.20.pdf" download>Resume</a>
                     <Link to="/contact">About Me</Link>
                     <a href="https://github.com/thuytpham" rel="noopener noreeferrer" target="_blank">Projects</a>          
                 </Navigation>
